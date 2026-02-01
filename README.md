@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,ai,ps,github,figma,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,ai,ps,github,figma,bootstrap,postman,r,powerbi" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,javascript,nodejs,react,mysql,mongodb" />
 </div>
 
