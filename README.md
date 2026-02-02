@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=22&color=00FF00&background=000000&width=420&lines=Hi+👋+I'm+Ravindu+Yashas;Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=22&color=00FF00&background=000000&width=420&lines=Hi+👋+I'm+Ravindu+Yashas;" />
 </h3>
 
 
