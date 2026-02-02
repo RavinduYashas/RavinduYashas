@@ -1,12 +1,16 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ravinduyashas&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduyashas" /> </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ravindu+Yashas!;" />
-</h1>
+</h1> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ravindu+Yashas!;&color=00FF00&background=000000&repeat=true" />
 </h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=22&color=00FF00&background=000000&width=420&lines=Hi+👋+I'm+Ravindu+Yashas;Cybersecurity+Enthusiast" />
+</h3>
 
 
 <h3 align="left">Connect with me:</h3>
