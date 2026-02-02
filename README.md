@@ -8,11 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ravindu+Yashas!;&color=00FF00&background=000000&repeat=true" />
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=22&color=00FF00&background=000000&width=420&lines=Hi+👋+I'm+Ravindu+Yashas;" />
-</h3>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ravindu yasas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu yasas" height="30" width="40" /></a>
